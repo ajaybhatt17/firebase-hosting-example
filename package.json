@@ -1,0 +1,17 @@
+{
+  "name": "firebase-hosting-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "firebase use default && firebase deploy",
+    "start": "firebase init",
+    "login": "firebase login"
+  },
+  "author": "Ajay Bhatt (ajaybhatt17@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^3.18.6"
+  }
+}
