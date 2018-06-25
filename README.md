@@ -3,6 +3,19 @@
 ## Pre-Requirement
 
 NPM (For windows - http://blog.teamtreehouse.com/install-node-js-npm-windows) 
+Sublime or any other editor (https://www.sublimetext.com/3)
+
+Download this project from github 
+
+## Open Project in Sublime
+
+Open Terminal and follow this instruction
+
+```
+cd path_to_downloaded_firebase-hosting-example_folder 
+generally for mac it would be cd ~/Downloads/firebase-hosting-example
+sublime .
+```
 
 ## Setup Project in Firebase console
 
